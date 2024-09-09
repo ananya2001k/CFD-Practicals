@@ -7,4 +7,4 @@ Date            Experiment no.     Main filename      commit id
 12-08-2024           3              experiment 3       4660b5f
 19-08-2024           4              experiment 4       a642073
 31-08-2024           5              experiment 5       efaf05c
-02-09-2024           6              experiment 6
+02-09-2024           6              experiment 6       10ac9bc
