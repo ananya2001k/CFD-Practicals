@@ -3,7 +3,7 @@ float x[10];
 float *tridiagonal(float r, float d[],int n)
 {
     int i;
-    float a=-r,b=(1+2*r),c=-r;
+    float a=-r,b=2*(1+r),c=-r;
     float alpha[10],beta[10];
     alpha[1]=b;
     beta[1]=d[1]/b;
